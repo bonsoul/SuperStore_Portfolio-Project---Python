@@ -7,8 +7,8 @@
    Shipping Mode : Comparing different types of shipping modes to determine  which shipping method is most common used.
 
 ### 3. Product Category
-   Product Category Analysis : Investigate the sales perfomance of different product categories.
-   Sub-Category Insights: Analyse sales data for sub-category to identify the top selling and least-selling products.
+   Product Category Analysis: Investigate the sales perfomance of different product categories.
+   Sub-Category Insights: Analyse sales data for sub-categories to identify the top selling and least-selling products.
    Product perfomance : Analyse the popularity of different products based on their sales amount and determine if any products need to be promoted.
 
 ### 4. Customer Segmentation
